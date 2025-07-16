@@ -1,0 +1,8 @@
+baseURL = 'https://EyalIsr.github.io/my-hugo-site'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
+
+[params]
+  description = "A minimal Hugo site"
+  author = "Your Name"
